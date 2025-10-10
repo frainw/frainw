@@ -20,14 +20,12 @@
 
 ### ⚙️ Tecnologias e ferramentas que uso
 <p align="center">
-  <img align="center" alt="VSCode" height="40" width="50"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git" height="40" width="50"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Visual Studio" height="40" width="50"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="GitHub" height="40" width="50"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Windows" height="40" width="50"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <img align="center" alt="VirtualBox" height="40" width="50"
+       src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png">
 </p>
 
 ---
@@ -42,5 +40,8 @@
 
 ---
 
+### 📱 Redes sociais
 <p align="center">
-  🌱 <i>"Cada l
+  <a href="https://www.instagram.com/wndelacerda_/" target="_blank">
+    <img align="center" alt="Instagram" height="40" width="40"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-gene

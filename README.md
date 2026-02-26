@@ -24,8 +24,8 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="GitHub" height="40" width="50"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="VirtualBox" height="40" width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png">
+  <img align="center" alt="Sql" height="40" width="50"
+       src="https://img.icons8.com/fluent/1200/sql.jpg">
 </p>
 
 

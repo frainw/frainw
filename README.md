@@ -3,7 +3,7 @@
 <p align="center">
   💻 Desenvolvedor em aprendizado apaixonado por tecnologia e programação.<br>
   🎯 Atualmente estudando <strong>C</strong> e <strong>C#</strong>, buscando criar projetos práticos e eficientes.<br>
-  🚀 Explorando novas formas de melhorar meu código e aprender algo novo todos os dias.
+  🚀 Explorando novas formas de melhorar meu código e aprendendo algo novo todos os dias.
 </p>
 
 ---
